@@ -139,6 +139,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kollive7823/kollive7823/output/snake.svg" alt="Snake animation" />
-
 ###
